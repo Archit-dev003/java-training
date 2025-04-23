@@ -1,5 +1,6 @@
 public class pyramid {
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         int[][] arr={{12,4,5,3,7},{3,6,4,3,0}};
 
         int count=0;
