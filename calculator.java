@@ -3,7 +3,8 @@ public class calculator {
     /**
      * @param args
      */
-    public static void main(String[] args) {
+    public static void main(String[] args)
+     {
         System.out.println("CALUCATOR");
         Scanner in = new Scanner(System.in);
 
