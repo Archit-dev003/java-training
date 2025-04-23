@@ -7,7 +7,6 @@ public class print_array {
         int n=in.nextInt();
         int[] arr=new int[n];
 
-        // int[] arr={1,2,3,4,5,6,7};
         System.out.println("enter value of arr");
 
         for(int i=0;i<n;i++)
