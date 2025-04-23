@@ -1,5 +1,6 @@
 public class VowelOrConsonant {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+     {
         String word = "cOllege";
         String str = word.toLowerCase();
         
