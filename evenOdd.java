@@ -1,5 +1,6 @@
 public class evenOdd {
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         System.out.println("Even or Odd?");
 
         int num = 6789;
