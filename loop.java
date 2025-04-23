@@ -1,13 +1,6 @@
 public class loop {
     public static void main(String[] args) {
-        // for(int i=0; i<5; i++)
-        // System.out.println("Joyboy");
 
-        // int j=0;
-        // while (j<6) {
-        // System.out.println("Camellya");
-        // j++;
-        // }
         int i;
         for ( i= 0; i <= 5; i++) {
             System.out.println(" ");
