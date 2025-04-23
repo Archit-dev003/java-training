@@ -1,6 +1,7 @@
 import java.util.*;
 public class linear_Search {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+     {
         System.out.print("Enter the size of array:  ");
         Scanner joy = new Scanner(System.in);
 
